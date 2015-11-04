@@ -10,7 +10,6 @@
 <img src="http://cfile21.uf.tistory.com/image/2376864752CA2BF4303A2F" width=500px height=300px>
 
 우리의 프로그램은 고객님의 자녀를 안전한 길로 유도합니다.
-http://cfile5.uf.tistory.com/image/2701884154DD584416BCCD
 
 #### <img src="http://cfile5.uf.tistory.com/image/2701884154DD584416BCCD" width=50px height=50px> 즐거운 착용
 
