@@ -1,7 +1,7 @@
 ﻿
 # <div style="text-align:center"> 컴퓨터시스템 기초설계
  *시스템 설계1* <br/>
-![](http://cfile24.uf.tistory.com/image/235E2A3F526F6391068FD1)
+![](http://cfile24.uf.tistory.com/image/235E2A3F526F6391068FD1)<br/>
 **Team 02**<br/>
 2011136006 고현영<br/>
 2011136025 김재휘<br/>
